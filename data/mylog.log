@@ -1,0 +1,30 @@
+oct 19, 2023 10:48:53 AM Tools.Tool updateLogger
+INFORMACIÓN: no se pueden ingresar caracteres especiales
+oct 19, 2023 12:23:51 PM Tools.Tool updateLogger
+INFORMACIÓN: el nombre no puede estar vacio
+oct 19, 2023 12:33:28 PM Tools.Tool updateLogger
+INFORMACIÓN: la edad no puede ser menor de 0
+oct 19, 2023 12:44:15 PM Tools.Tool updateLogger
+INFORMACIÓN: no puedes usar el rol de administrador
+oct 19, 2023 1:03:35 PM Tools.Tool updateLogger
+INFORMACIÓN: la id no puede ser menor de 0
+oct 19, 2023 1:04:14 PM Tools.Tool updateLogger
+INFORMACIÓN: la id no puede ser menor o igual a 0
+oct 19, 2023 1:12:22 PM Tools.Tool updateLogger
+INFORMACIÓN: la fecha de contratacion no puede superar 10 caracteres
+oct 19, 2023 1:12:57 PM Tools.Tool updateLogger
+INFORMACIÓN: la fecha de contratacion no puede superar 10 caracteres
+oct 19, 2023 1:17:47 PM Tools.Tool updateLogger
+INFORMACIÓN: la id no puede ser menor o igual a 0
+oct 19, 2023 1:25:09 PM Tools.Tool updateLogger
+INFORMACIÓN: El campo no puede quedar vacío
+oct 21, 2023 5:48:50 PM Tools.Tool updateLogger
+INFORMACIÓN: La edad debe ser un número entero positivo
+oct 22, 2023 11:21:32 AM Tools.Tool updateLogger
+INFORMACIÓN: La fecha de contratación debe tener el formato yyyy-mm-dd
+oct 22, 2023 6:48:42 PM Tools.Tool updateLogger
+INFORMACIÓN: La fecha de contratación debe tener el formato yyyy-MM-dd
+oct 24, 2023 6:33:03 AM Tools.Tool updateLogger
+INFORMACIÓN: La fecha de contratación debe tener el formato yyyy-MM-dd
+oct 25, 2023 7:36:36 AM Tools.Tool updateLogger
+INFORMACIÓN: La fecha de contratación debe tener el formato yyyy-MM-dd
